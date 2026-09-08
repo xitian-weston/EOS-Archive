@@ -1,5 +1,7 @@
 # 🗄️ EOS Archive
 
+![EOS Archive — Guardian Angel](cover.svg)
+
 
 
 **Status:** Archived · **Classification:** Internal · **Service Status:** Terminated
@@ -50,7 +52,11 @@ Otome games are games developed primarily for women, typically placing the playe
 
 While early otome games were closely associated with console and PC-based visual novels, the genre has increasingly shifted towards mobile platforms. Contemporary titles often combine romance narratives with live-service systems, including daily interactions, limited-time events, collectible cards, messaging and other recurring forms of character engagement. The romantic experience therefore extends beyond completing a fixed storyline and becomes something sustained through continuous interaction.
 
-[30 years of otome game — No. 1: How did the term ‘otome game’ spread?](https://macc.bunka.go.jp/5021/)
+[![30 years of otome game — No. 1: How did the term ‘otome game’ spread?](reference-otome.svg)](https://macc.bunka.go.jp/5021/)
+
+**[30 years of otome game — No. 1: How did the term ‘otome game’ spread?](https://macc.bunka.go.jp/5021/)**
+
+梳理“otome game”这一名称如何传播，作为本节乙女游戏类型与历史的参考。
 
 #### 112 Game Overview
 
@@ -108,7 +114,11 @@ ui pc98
 
 Intimacy in otome games is not produced by narrative alone, but through repeated systems of interaction. Daily messages, phone calls, birthday events, shared activities and personalised responses allow fictional characters to become embedded within the player’s everyday routine. Ge, Hu and Ouyang (2025) describe this process through “digital intimacy literacies”, arguing that players learn to interpret and engage with the textual narratives, character design and interactive affordances of otome games in ways that cultivate emotionally meaningful relationships with virtual characters. In this sense, companionship is not simply represented by the game; it is continuously produced through its design.
 
-[Digital literacies of intimacy: women’s engagement and learning in otome video games](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2587132#abstract)
+[![Digital literacies of intimacy: women’s engagement and learning in otome video games](reference-intimacy.svg)](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2587132#abstract)
+
+**[Digital literacies of intimacy: women’s engagement and learning in otome video games](https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2587132#abstract)**
+
+讨论女性玩家如何在乙女游戏中形成数字亲密关系，对应本节的互动机制与情感依恋。
 
 ### 220 AI Erotics
 
@@ -124,9 +134,13 @@ Intimacy in otome games is not produced by narrative alone, but through repeated
 
 The relationship between player and character often extends beyond the boundaries of the game itself. Players rewrite, preserve and perform these relationships through fan fiction, illustration, video edits, online communities and commissioned cosplay, allowing the character to circulate across different platforms and forms of media. From the perspective of participatory culture, players therefore become active producers rather than passive consumers of the fictional world. These practices transform private attachment into a shared cultural activity, where emotional investment continues to generate new images, narratives and interpretations long after the original gameplay session has ended.
 
-[2.5次元造梦：中国乙女游戏的破圈之路 — BBC News 中文](https://www.bbc.com/zhongwen/articles/c3ry32ypn7zo/simp)
+[![2.5次元造梦：中国乙女游戏的破圈之路 — BBC News 中文](reference-beyond.svg)](https://www.bbc.com/zhongwen/articles/c3ry32ypn7zo/simp)
 
-[Confronting the Challenges of Participatory Culture — PDF（附件待迁移）](https://app.notion.com/p/3d034820d7068065b6fdcd5f0a5e208c#3d034820d706801aa5a4ed8275d414f3)
+**[2.5次元造梦：中国乙女游戏的破圈之路 — BBC News 中文](https://www.bbc.com/zhongwen/articles/c3ry32ypn7zo/simp)**
+
+讨论中国乙女游戏与现实生活的联系，作为游戏之外的陪伴及玩家文化的案例。
+
+[Confronting the Challenges of Participatory Culture — 阅读 PDF](Participatory-Culture.pdf)
 
 ---
 
